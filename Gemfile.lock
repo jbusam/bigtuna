@@ -83,7 +83,7 @@ GEM
     mocha (0.9.10)
       rake
     multipart-post (1.0.1)
-    mysql2 (0.3.6)
+    mysql2 (0.2.11)
     nokogiri (1.4.4)
     notifo (0.1.0)
       httparty (~> 0.4.5)
@@ -166,7 +166,7 @@ DEPENDENCIES
   launchy
   machinist
   mocha
-  mysql2
+  mysql2 (~> 0.2.7)
   nokogiri
   notifo
   open4
